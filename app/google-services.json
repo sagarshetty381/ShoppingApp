@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "126849246332",
+    "firebase_url": "https://shoppingcart-cb551.firebaseio.com",
+    "project_id": "shoppingcart-cb551",
+    "storage_bucket": "shoppingcart-cb551.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126849246332:android:a3427db14b595011",
+        "android_client_info": {
+          "package_name": "com.delaroystudios.fragrancecart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126849246332-5s34veupmv1i9beqfspuljoqvfb8dmeh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.delaroystudios.fragrancecart",
+            "certificate_hash": "e410b92d6871a7490bf2dcbeea97eadcd8611ebd"
+          }
+        },
+        {
+          "client_id": "126849246332-gfit4bf8qr34r9aqcgu1kiml284ekbtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1FdB7j-vntfJCDLqeVbFjbzuRJDouWXk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126849246332-gfit4bf8qr34r9aqcgu1kiml284ekbtb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
